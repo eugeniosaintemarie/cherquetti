@@ -1,0 +1,129 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.cherquetti.com.ar" resolutions="1x" timestamp="1463176735818">
+  <folder name="css">
+    <file name="site_global.css" crc="3779645796"/>
+    <file name="master__.css" crc="4129669809" ref="index"/>
+    <file name="index.css" crc="4068780772" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="531812214" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4156477058" ref="phone>index:tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="3974494556" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="524071285" ref="tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="tablet>index:index"/>
+    <file name="form_check.php" crc="373582055" ref="tablet>index:index"/>
+    <file name="form_throttle.php" crc="211381018" ref="tablet>index:index"/>
+    <file name="form_process.php" crc="6354943" ref="tablet>index:index"/>
+    <file name="form-u3014.php" crc="253039085" ref="tablet>index"/>
+    <file name="form-u2973.php" crc="3997117631" ref="tablet>index"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="tablet>index:index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="tablet>index:index"/>
+    <file name="form-u507.php" crc="4262053079" ref="index"/>
+    <file name="form-u466.php" crc="4147844891" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="·-favicon.ico" crc="4128057105" ref="phone>index"/>
+    <file name="logo (rojo).png" crc="74933431" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="cherquetti logo (sin borde) (amarillo).png" crc="534959314" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u3456-grad.png" crc="341910157" ref="phone>index"/>
+    <file name="u2098-4.png" crc="218185193" ref="phone>index"/>
+    <file name="clock.png" crc="3917211491" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u3182-11.png" crc="4126633115" ref="phone>index"/>
+    <file name="phone.png" crc="4059267537" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u3179-4.png" crc="4075179017" ref="phone>index"/>
+    <file name="u2661-4.png" crc="4055563064" ref="phone>index"/>
+    <file name="u2653-11.png" crc="4126633115" ref="phone>index"/>
+    <file name="u2649-4.png" crc="4075179017" ref="phone>index"/>
+    <file name="7379x285.jpg" crc="3813458505" seo="true" ref="phone>index"/>
+    <file name="logo cia.png" crc="343650063" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="matrícula cucicba 2.jpg" crc="180377373" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u2669-4.png" crc="370406718" ref="phone>index"/>
+    <file name="logo (amarillo).png" crc="4173584229" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="fondo.jpg" crc="4248140515" ref="tablet>index:index"/>
+    <file name="u3453-grad.png" crc="4274194073" ref="tablet>index:index"/>
+    <file name="u3011-4.png" crc="512977371" ref="tablet>index"/>
+    <file name="u3059-4.png" crc="4017763622" ref="tablet>index"/>
+    <file name="u3063-4.png" crc="3816506734" ref="tablet>index"/>
+    <file name="phone2.png" crc="3861642874" ref="tablet>index:index"/>
+    <file name="user.png" crc="157352954" ref="tablet>index:index"/>
+    <file name="email.png" crc="3760545500" ref="tablet>index:index"/>
+    <file name="message.png" crc="3987699486" ref="tablet>index:index"/>
+    <file name="u3036-17.png" crc="3801803945" ref="tablet>index"/>
+    <file name="u3036-17-r.png" crc="3949437491" ref="tablet>index"/>
+    <file name="u3036-17-m.png" crc="3949437491" ref="tablet>index"/>
+    <file name="u3036-17-fs.png" crc="113379579" ref="tablet>index"/>
+    <file name="u3012-4.png" crc="147811080" ref="tablet>index"/>
+    <file name="ubicación2.png" crc="4039977475" seo="true" ref="tablet>index:index"/>
+    <file name="u3010-4.png" crc="23840959" ref="tablet>index"/>
+    <file name="7396x297.jpg" crc="4179934623" seo="true" ref="tablet>index"/>
+    <file name="u2964-4.png" crc="4221806241" ref="tablet>index"/>
+    <file name="u2959-4.png" crc="4167718351" ref="tablet>index"/>
+    <file name="u2965-4.png" crc="474755001" ref="tablet>index"/>
+    <file name="u3115-4.png" crc="4017763622" ref="tablet>index"/>
+    <file name="u3112-4.png" crc="3816506734" ref="tablet>index"/>
+    <file name="u2978-17.png" crc="4173267063" ref="tablet>index"/>
+    <file name="u2978-17-r.png" crc="465484774" ref="tablet>index"/>
+    <file name="u2978-17-m.png" crc="465484774" ref="tablet>index"/>
+    <file name="u2978-17-fs.png" crc="11719057" ref="tablet>index"/>
+    <file name="u2966-4.png" crc="23840959" ref="tablet>index"/>
+    <file name="1.jpg" crc="447985581" seo="true" ref="tablet>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:index"/>
+    <file name="2.jpg" crc="4185988471" seo="true" ref="tablet>index:index"/>
+    <file name="3.jpg" crc="4241056646" seo="true" ref="tablet>index:index"/>
+    <file name="4.jpg" crc="3834322040" seo="true" ref="tablet>index:index"/>
+    <file name="6.jpg" crc="88137820" seo="true" ref="tablet>index:index"/>
+    <file name="5.jpg" crc="504966877" seo="true" ref="tablet>index:index"/>
+    <file name="7.jpg" crc="4035217944" seo="true" ref="tablet>index:index"/>
+    <file name="160x45.jpg" crc="4255749471" seo="true" ref="tablet>index"/>
+    <file name="260x40.jpg" crc="1071245" seo="true" ref="tablet>index"/>
+    <file name="360x45.jpg" crc="239329140" seo="true" ref="tablet>index"/>
+    <file name="460x45.jpg" crc="4244775148" seo="true" ref="tablet>index"/>
+    <file name="658x45.jpg" crc="4051402616" seo="true" ref="tablet>index"/>
+    <file name="559x45.jpg" crc="211125256" seo="true" ref="tablet>index"/>
+    <file name="760x45.jpg" crc="200171977" seo="true" ref="tablet>index"/>
+    <file name="loading.gif" crc="3815509949" ref="tablet>index:index"/>
+    <file name="u2849-4.png" crc="370406718" ref="tablet>index"/>
+    <file name="u556-4.png" crc="512977371" ref="index"/>
+    <file name="u1028-4.png" crc="4245501134" ref="index"/>
+    <file name="u1032-4.png" crc="3816506734" ref="index"/>
+    <file name="u542-17.png" crc="406932235" ref="index"/>
+    <file name="u542-17-r.png" crc="329407391" ref="index"/>
+    <file name="u542-17-m.png" crc="329407391" ref="index"/>
+    <file name="u542-17-fs.png" crc="456239159" ref="index"/>
+    <file name="u560-4.png" crc="147811080" ref="index"/>
+    <file name="u502-4.png" crc="23840959" ref="index"/>
+    <file name="u489-4.png" crc="15836372" ref="index"/>
+    <file name="u495-4.png" crc="4167718351" ref="index"/>
+    <file name="u490-4.png" crc="474755001" ref="index"/>
+    <file name="u2821-4.png" crc="4245501134" ref="index"/>
+    <file name="u2818-4.png" crc="3816506734" ref="index"/>
+    <file name="u467-17.png" crc="496068375" ref="index"/>
+    <file name="u467-17-r.png" crc="328985966" ref="index"/>
+    <file name="u467-17-m.png" crc="328985966" ref="index"/>
+    <file name="u467-17-fs.png" crc="517940493" ref="index"/>
+    <file name="u487-4.png" crc="23840959" ref="index"/>
+    <file name="u399.png" crc="426744426" ref="index"/>
+    <file name="u399-a.png" crc="319269370" ref="index"/>
+    <file name="u91-4.png" crc="3864996595" ref="index"/>
+    <file name="logo finaer.png" crc="345444158" seo="true" ref="index:phone>index"/>
+    <file name="logo finaer113x32.png" crc="121075635" seo="true" ref="tablet>index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master__.css" crc="3862930859" ref="tablet>index"/>
+      <file name="index.css" crc="163244931" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="523772575" seo="true" mt="1463176625017" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="377304105" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4260883683" seo="true" mt="1463176719591" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="237260123" seo="true" mt="1463176332966" redirect="true"/>
+</manifest>
